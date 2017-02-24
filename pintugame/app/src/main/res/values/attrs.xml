@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomTitleBar">
+        <attr name="backGroundColor" format="reference" />
+        <attr name="textColor" format="reference" />
+        <attr name="dividerColor" format="reference" />
+        <attr name="titleCenter" format="string" />
+        <attr name="titleRight" format="string" />
+        <attr name="titleLeft" format="string" />
+        <attr name="iconRight" format="reference" />
+        <attr name="iconLeft" format="reference" />
+        <attr name="iconCenter" format="reference" />
+        <attr name="stateBarHeight" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="FlipImageView">
+        <attr name="isAnimated" format="boolean" />
+        <attr name="isFlipped" format="boolean" />
+        <attr name="flipDrawable" format="reference" />
+        <attr name="flipDuration" format="integer" />
+        <attr name="flipInterpolator" format="reference" />
+        <attr name="flipRotations">
+            <flag name="none" value="0" />
+            <flag name="x" value="1" />
+            <flag name="y" value="2" />
+            <flag name="z" value="4" />
+        </attr>
+        <attr name="reverseRotation" format="boolean"></attr>
+    </declare-styleable>
+    <declare-styleable name="JazzyViewPager">
+        <attr name="style">
+            <enum name="standard" value="0" />
+            <enum name="tablet" value="1" />
+            <enum name="cubein" value="2" />
+            <enum name="cubeout" value="3" />
+            <enum name="flipvertical" value="4" />
+            <enum name="fliphorizontal" value="5" />
+            <enum name="stack" value="6" />
+            <enum name="zoomin" value="7" />
+            <enum name="zoomout" value="8" />
+            <enum name="rotateup" value="9" />
+            <enum name="rotatedown" value="10" />
+            <enum name="accordion" value="11" />
+        </attr>
+        <attr name="fadeEnabled" format="boolean" />
+        <attr name="outlineEnabled" format="boolean" />
+        <attr name="outlineColor" format="color|reference" />
+    </declare-styleable>
+
+
+    <declare-styleable name="MyScrollFramLayout">
+        <attr name="fillViewport" format="boolean"/>
+    </declare-styleable>
+
+</resources>

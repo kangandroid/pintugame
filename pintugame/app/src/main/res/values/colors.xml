@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="titleBar">@color/lightgreen500</color>
+    <color name="bnb_inactive">#8f8989</color>
+    <color name="bnb_active">@color/lightgreenA700</color>
+
+    <color name="bt_unchecked">@color/lightgreen400</color>
+    <color name="bt_checked">@color/lightgreenA400</color>
+
+    <color name="commonBg">@color/lightgreen50</color>
+
+    <!--Light Green colour scheme-->
+    <color name="lightgreen50">#f1f8e9</color>
+    <color name="lightgreen100">#dcedc8</color>
+    <color name="lightgreen200">#c5e1a6</color>
+    <color name="lightgreen300">#aed582</color>
+    <color name="lightgreen400">#9dcc66</color>
+    <color name="lightgreen500">#8cc34b</color>
+    <color name="lightgreen600">#7db343</color>
+    <color name="lightgreen700">#69a039</color>
+    <color name="lightgreen800">#568c30</color>
+    <color name="lightgreen900">#346a20</color>
+    <color name="lightgreenA100">#ccff91</color>
+    <color name="lightgreenA200">#b2ff5a</color>
+    <color name="lightgreenA400">#77ff05</color>
+    <color name="lightgreenA700">#65dd19</color>
+</resources>

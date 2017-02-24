@@ -1,0 +1,38 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+<!--边距-->
+    <dimen name="dimen_1dp">1dp</dimen>
+    <dimen name="dimen_2dp">2dp</dimen>
+    <dimen name="dimen_5dp">5dp</dimen>
+    <dimen name="dimen_10dp">10dp</dimen>
+    <dimen name="dimen_15dp">15dp</dimen>
+    <dimen name="dimen_20dp">20dp</dimen>
+    <dimen name="dimen_30dp">30dp</dimen>
+    <dimen name="dimen_40dp">40dp</dimen>
+    <dimen name="dimen_50dp">50dp</dimen>
+    <dimen name="dimen_60dp">60dp</dimen>
+    <dimen name="dimen_75dp">75dp</dimen>
+    <dimen name="dimen_80dp">80dp</dimen>
+    <dimen name="dimen_100dp">100dp</dimen>
+    <dimen name="dimen_150dp">150dp</dimen>
+    <dimen name="dimen_200dp">200dp</dimen>
+    <dimen name="dimen_250dp">250dp</dimen>
+
+    <!--字体大小-->
+    <dimen name="ts_12sp">12sp</dimen>
+    <dimen name="ts_13sp">13sp</dimen>
+    <dimen name="ts_14sp">14sp</dimen>
+    <dimen name="ts_16sp">16sp</dimen>
+    <dimen name="ts_20sp">20sp</dimen>
+    <dimen name="ts_24sp">24sp</dimen>
+    <dimen name="ts_34sp">34sp</dimen>
+    <dimen name="ts_45sp">45sp</dimen>
+    <dimen name="ts_56sp">56sp</dimen>
+    <dimen name="ts_112sp">112sp</dimen>
+
+
+</resources>

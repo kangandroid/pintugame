@@ -1,0 +1,99 @@
+<resources>
+
+    <string name="app_name">美女拼图</string>
+
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+
+
+    <string name="mm131">http://img1.mm131.com/pic/</string>
+
+    <string-array name="girl">
+
+        <item>http://img06.tooopen.com/images/20161113/tooopen_sy_186542862378.jpg</item>
+        <item>http://img05.tooopen.com/images/20150327/tooopen_sy_83682541161.jpg</item>
+        <item>http://img02.tooopen.com/images/20151225/tooopen_sy_152702949272.jpg</item>
+        <item>http://img1.mm131.com/pic/2283/1.jpg</item>
+        <item>http://img1.mm131.com/pic/2250/1.jpg</item>
+        <item>http://img1.mm131.com/pic/2538/1.jpg</item>
+        <item>http://img1.mm131.com/pic/2551/1.jpg</item>
+        <item>http://img1.mm131.com/pic/2319/1.jpg</item>
+        <item>http://img1.mm131.com/pic/2359/1.jpg</item>
+
+    </string-array>
+
+<string-array name="boy">
+
+        <item>http://img1.mm131.com/pic/2155/1.jpg_36</item>
+        <item>http://img1.mm131.com/pic/2250/1.jpg_40</item>
+        <item>http://img1.mm131.com/pic/2424/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2684/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2260/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2283/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2250/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2538/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2551/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2319/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2359/1.jpg_70</item>
+
+    </string-array>
+    <string-array name="animal">
+
+        <item>http://img1.mm131.com/pic/2155/1.jpg_36</item>
+        <item>http://img1.mm131.com/pic/2250/1.jpg_40</item>
+        <item>http://img1.mm131.com/pic/2424/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2684/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2260/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2283/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2250/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2538/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2551/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2319/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2359/1.jpg_70</item>
+
+    </string-array>
+    <string-array name="star">
+
+        <item>http://img1.mm131.com/pic/2155/1.jpg_36</item>
+        <item>http://img1.mm131.com/pic/2250/1.jpg_40</item>
+        <item>http://img1.mm131.com/pic/2424/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2684/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2260/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2283/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2250/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2538/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2551/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2319/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2359/1.jpg_70</item>
+
+    </string-array>
+    <string-array name="muscle">
+
+        <item></item>
+        <item>http://u2.zhenyouliao.com/images/20140722/31250cc7-b834-4004-87ef-46d76f6116ad.jpg</item>
+        <item>http://img1.mm131.com/pic/2684/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2260/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2283/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2250/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2538/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2551/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2319/1.jpg_70</item>
+        <item>http://img1.mm131.com/pic/2359/1.jpg_70</item>
+
+    </string-array>
+
+
+
+</resources>
